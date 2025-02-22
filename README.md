@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Huttleston (aka @chumpalump )
 - 👀 I’m a science lovin' unix geek
-- 🌱 I’m currently learning deep learning using R and python
+- 🌱 I’m currently learning to apply deep learning to survival analysis using R and python
 - 💞️ I’m looking to collaborate on applying data science to site reliability engineering challenges
 - 📫 How to reach me dhjr@bsdbrains.org
 
